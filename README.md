@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MANJUNATH1995
+- 👋 Hi, I’m @MANJUNATH M D
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Web Development at A2N academy
 - 💞️ I’m looking to collaborate on ...
